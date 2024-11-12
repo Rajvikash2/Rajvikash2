@@ -1,7 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Next.JS and love exploring it .<br>🌱 I’m currently learning web development and love doing projects in it<br>
+🔭 I’m currently working on Next.JS and love exploring it.<br>
+🌱 I’m currently learning web development and love doing projects in it.<br>
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="400" height="280" />
+
+
 
 
 ## 🌐 Socials:

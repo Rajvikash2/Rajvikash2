@@ -4,7 +4,7 @@
 🌱 I'm currently learning web development and love doing projects in it.<br>
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="280" />
 
 <br>
 

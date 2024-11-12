@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="center" alt="GIF" src="./your_cool_intro(1).gif" width="900" height="220" />
 🔭 I'm currently working on Next.JS and love exploring it.<br>
 🌱 I'm currently learning web development and love doing projects in it.<br>
 

@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br>
 <img align="center" alt="GIF" src="./your_cool_intro(1).gif" width="900" height="220" />
-🔭 I'm currently working on Next.JS and love exploring it.<br>
-🌱 I'm currently learning web development and love doing projects in it.<br>
+🔭 Currently working on Next.JS and love exploring it.<br>
+❤️Web Developmet .<br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br>
